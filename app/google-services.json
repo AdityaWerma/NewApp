@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926455363203",
+    "project_id": "adityanews-971e8",
+    "storage_bucket": "adityanews-971e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926455363203:android:493a367976931eceaecdb6",
+        "android_client_info": {
+          "package_name": "com.akv.adityanews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926455363203-mgg80pdovrntbp984den8tcmb4lgop6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoWASnNn1_5IAI0-mnE6wbVKLck1aXc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926455363203-mgg80pdovrntbp984den8tcmb4lgop6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
